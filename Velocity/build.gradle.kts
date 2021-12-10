@@ -23,9 +23,9 @@ repositories {
 }
 
 dependencies {
-    compileOnly("com.velocitypowered:velocity-api:1.1.3-SNAPSHOT")
+    compileOnly("com.velocitypowered:velocity-api:3.0.1")
     compile("de.themoep:minedown-adventure:1.7.0-SNAPSHOT")
-    annotationProcessor("com.velocitypowered:velocity-api:1.1.3-SNAPSHOT")
+    annotationProcessor("com.velocitypowered:velocity-api:3.0.1")
 }
 
 java {
